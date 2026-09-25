@@ -1,5 +1,5 @@
-# SimpleFuture - A Debian Plymouth Theme
-A Simple and Minimal Plymouth Theme for Debian. Inspired and modified from FuturePrototype Theme
+# SimpleFuture - A Alpine Plymouth Theme
+A Simple and Minimal Plymouth Theme for Alpine. Inspired and modified from FuturePrototype Theme
 
 ![](Sample.png)
 
