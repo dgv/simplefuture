@@ -1,5 +1,5 @@
-# SimpleFuture - A Alpine Plymouth Theme
-A Simple and Minimal Plymouth Theme for Alpine. Inspired and modified from FuturePrototype Theme
+# SimpleFuture - A Nura Plymouth Theme
+A Simple and Minimal Plymouth Theme for Nura. Inspired and modified from FuturePrototype Theme
 
 ![](Sample.png)
 

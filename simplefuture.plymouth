@@ -1,6 +1,6 @@
 [Plymouth Theme]
-Name=SimpleFuture - a simple plymouth theme for Alpine.
-Description=A theme featuring a simple alpine logo and progress bar inspired by FuturePrototype.
+Name=SimpleFuture - a simple plymouth theme for Nura.
+Description=A theme featuring a simple nura logo and progress bar inspired by FuturePrototype.
 ModuleName=script
 
 [script]
